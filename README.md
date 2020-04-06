@@ -1,0 +1,6 @@
+# letsupgrade.Assigment1
+python assignment
+list,dictionary,sets
+all the inbuilt functions of the advanced datatypes are explained and executed...
+please refer the file for the better understanding........
+
